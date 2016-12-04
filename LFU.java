@@ -1,3 +1,4 @@
+//https://discuss.leetcode.com/topic/69137/java-o-1-accept-solution-using-hashmap-doublelinkedlist-and-linkedhashset
 public class LFUCache {
     private Node head = null;
     private int cap = 0;
